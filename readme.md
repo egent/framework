@@ -1,4 +1,4 @@
-http://barb.ua
+https://barb.ua
 
 # Laravel Framework (Kernel)
 
